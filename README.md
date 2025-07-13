@@ -9,6 +9,6 @@ Adds Font Awesome (free version 6.7.2 by [@fontawesome](https://fontawesome.com)
 
 ![example](example.png)
 
-# Future Updates
+## Future Updates
 - [ ] Search for icons
 
